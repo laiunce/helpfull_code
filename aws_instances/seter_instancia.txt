@@ -1,0 +1,19 @@
+#eliminar python 2
+sudo apt purge python2.7-minimal
+
+#instalar pip3
+sudo apt-get update
+sudo apt-get -y upgrade
+sudo apt-get install -y python3-pip
+
+#instlar pandas
+sudo pip3 install pandas
+sudo pip3 install flask
+sudo pip3 install requests
+sudo pip3 install bs4
+
+sudo pip3 pip install html5lib
+sudo pip3 pip install lxml
+
+
+http://52.14.67.113:5000/api/v1/resources/return_pepe

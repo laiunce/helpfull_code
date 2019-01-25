@@ -1,0 +1,5 @@
+analisis de variable respecto al target, ambas continuas
+
+primer paso agrupar variable analizar en percentiles con igual cantidad en cada percentil
+
+cada percentil analizar la mediana y promedio del la variable target para ver como se comporta por percentil

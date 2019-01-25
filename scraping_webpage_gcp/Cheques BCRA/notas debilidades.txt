@@ -1,0 +1,15 @@
+debilidades
+
+codigo abierto necesitamos una persona que entienda de codigo para realizar un seguimiento del mismo si algo falla. plan de contigencia, documentar y desarrollar en forma modularizada  para que el codigo sea entendible y facil de mantener.
+
+dependemos de software libre pero las librerias utilizadas son las habilitadas por Anaconda enterprise lider en desarrollo de plataforma para datascience.
+
+utilizamos metodologias propias de un bureau recolectando informacion. Es informacion que ayuda a tomar decisciones que se encuentran disponibles para todo el mundo en internet. Es informacion confiable del BCRA.
+
+Al ahcer cruces con el datawarehouse se utiliza SPSS, python se utiliza apra ahcer llamadas batch para procesos de carga y transformacion en SPSS. python se utiliza para la bajada de informacion transformacion de datos, actualmente no existe un software que haga lo que necesitamos porque es totalmente especifico y se aplican metodolias avanzadas de procesamiento de datos que puede ser desarrollados por un especialista en datos. 
+
+El paquete esta desarrollado y depende de la estructura del BCRA, si la estructura cambia tendremos que adaptarnos ala nueva forma de extraccion de datos.
+
+consistencia de datos del warehouse. Tenemos el control y cualquiera puede borrar estos datos, no hay plan de contingencia para los mismos y si se hace un drop no hay forma de volver atras. 
+
+actualmente se corre el sistema en mi maquina local. si queremos cronearlo en un servidor necesitamos instalar python y las librerias correspondientes. 

@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "select\nBAD,\nZona_Oficial,\nSexo,\nEDAD,\nANTIGUEDAD_BCO\nfrom\n[dbo].[claiun_tmp_modelo_atraso_muestra] at",
+    "created" : 1499181904394.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1408845526",
+    "id" : "BAED0214",
+    "lastKnownWriteTime" : 1499181922,
+    "last_content_update" : 1499181922899,
+    "path" : "C:/Users/LAC40641/Desktop/Analisis_correspondencia/query.sql",
+    "project_path" : "query.sql",
+    "properties" : {
+        "tempName" : "Untitled3"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "sql"
+}

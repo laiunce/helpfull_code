@@ -1,0 +1,5 @@
+regex para detectar numeros entre dos patrones
+
+line = 'InfoclienteISDN="542996234234234559380";%%_JUYJ2342ISDN="22222";%%34 sjkdfb,jsbdfbjsbfsdjfb UY -2424234232 2323ISDN="542996559380";%%    ISDN="3333";%% Abonoto$%; Prepago104'
+for i in re.findall(r'(?<=ISDN=")(\d*)(?=";%%)', line):
+    print(i)

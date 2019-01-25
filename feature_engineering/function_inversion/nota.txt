@@ -1,0 +1,15 @@
+http://www.xuru.org/rt/PR.asp#CopyPaste
+http://www.wolframalpha.com/widgets/view.jsp?id=32bf4c31c5a22849cfb0ef04c086d8b3
+
+
+por cada variable hacer lo sigiuiente
+buscar formula polinomica de orden 8 por ejemplo que mejor aste a los datos
+a esta formula hacerle la funcion inversa
+luego restar a cada valor de x el resultado de esta nueva funcion inversa
+
+calcular funcion inversa
+
+http://www.wolframalpha.com/widgets/view.jsp?id=d08726019e4a2a15cb1d49092e4d0522
+
+invertir con python
+https://pypi.python.org/pypi/pynverse

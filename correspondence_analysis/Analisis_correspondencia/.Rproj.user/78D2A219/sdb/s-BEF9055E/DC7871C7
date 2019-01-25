@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(FactoMineR)\nlibrary(ca)\nlibrary(ggplot2)\n\ndata1 <- read.csv(\"data.csv\")\nprint()\n\nhist(data1$ANTIGUEDAD_BCO)\n\nac_data <-data.frame(as.factor(data1$ï..bad), data1$Sexo,data1$Zona_Oficial)\ncolnames(ac_data)<-c('bad','Sexo','Zona_Oficial')\nstr(ac_data)\n\nac_data = apply(ac_data, 2, function(x) nlevels(as.factor(x)))\n\n\nmca1_cat = MCA(ac_data, graph = FALSE)\nprint(mca1_cat)\n\nmca1_cat$var$contrib\nsummary(mca1_cat)\n\nmca1_cat_vars_df = data.frame(mca1_cat$var$coord, Variable = rep(names(ac_data), ac_data))\n\nmca1_cat_obs_df = data.frame(mca1_cat$ind$coord)\n\n\n\n# plot of variable categories\nggplot(data = mca1_cat_vars_df, aes(x = Dim.1, y = Dim.2, label = rownames(mca1_cat_vars_df))) + \n  geom_hline(yintercept = 0, colour = \"gray70\") + geom_vline(xintercept = 0, \n                                                             colour = \"gray70\") + geom_text(aes(colour = Variable)) + ggtitle(\"MCA plot of variables using R package FactoMineR\")\n",
+    "created" : 1499181698271.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1664874819",
+    "id" : "DC7871C7",
+    "lastKnownWriteTime" : 1499199697,
+    "last_content_update" : 1499199697225,
+    "path" : "C:/Users/LAC40641/Desktop/Analisis_correspondencia/AC.R",
+    "project_path" : "AC.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

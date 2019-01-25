@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "\n\n#install.packages(\"FactoMineR\")\n#install.packages(\"ca\")\n#install.packages(\"ggplot2\")\nlibrary(ggplot2)\nlibrary(ca)\nlibrary(FactoMineR)\n\n#lee datos\ndata <- read.csv(\"/Users/laiunce/Desktop/Analisis correspondencia/base_4_acotada.csv\")\n\n#asigna columnas\ndata_cat <- data[,c(\"item_CARRIER\",\"palabra_busqueda\",\"ciudad\")]\n\n# reemplaza NA values\ndata_cat$palabra_busqueda = data_cat$palabra_busqueda[is.na(data_cat$palabra_busqueda)] <- \"None\"\ndata_cat$ciudad = data_cat$ciudad[is.na(data_cat$ciudad)] <- \"None\"\ndata_cat$item_CARRIER = data_cat$item_CARRIER[is.na(data_cat$item_CARRIER)] <- \"None\"\n\n\n#dimensiones a graficar\ncant_dim = 2\n\n#grafica\nstr(data_cat)\ncats_cat = apply(data_cat, cant_dim, function(x) nlevels(as.factor(x)))\ncats_cat\nmca1_cat = MCA(data_cat, graph = FALSE)\nmca1_cat$eig\nmca1_cat_vars_df = data.frame(mca1_cat$var$coord, Variable = rep(names(cats_cat), cats_cat))\nmca1_cat_obs_df = data.frame(mca1_cat$ind$coord)\n# plot of variable categories\nggplot(data = mca1_cat_vars_df, aes(x = Dim.1, y = Dim.2, label = rownames(mca1_cat_vars_df))) + \n  geom_hline(yintercept = 0, colour = \"gray70\") + geom_vline(xintercept = 0, \n                                                             colour = \"gray70\") + geom_text(aes(colour = Variable)) + ggtitle(\"MCA plot of variables using R package FactoMineR\")\n\n",
+    "created" : 1522106013299.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1970890357",
+    "id" : "C096C541",
+    "lastKnownWriteTime" : 1522107799,
+    "last_content_update" : 1522107799921,
+    "path" : "~/Desktop/Analisis correspondencia/script.R",
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

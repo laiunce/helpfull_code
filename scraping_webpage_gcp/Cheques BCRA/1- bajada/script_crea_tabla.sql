@@ -1,0 +1,11 @@
+CREATE TABLE [dbo].[claiun_bcra_cheques_al_format_tmp](
+	[cuil] [bigint] NULL,
+	[nro_cheque] [bigint] NULL,
+	[fecha_rechazo] [bigint] NULL,
+	[monto] [float] NULL,
+	[fecha_pago] [bigint] NULL,
+	[causal] [nvarchar](255) NULL,
+	[pago_multa] [nvarchar](255) NULL,
+	[persona_juridica_relacionada] [nvarchar](255) NULL,
+	[mes] [bigint] NULL
+) ON [PRIMARY]

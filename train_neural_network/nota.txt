@@ -1,0 +1,1 @@
+ver pasar parametro de funciones ocultas para evaluar qeu sean coincidentes de entrenamiento y evaluacion

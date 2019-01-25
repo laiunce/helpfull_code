@@ -1,0 +1,387 @@
+item_CARRIER,palabra_busqueda,price,seller_address.city.name,ciudad,shipping.free_shipping,shipping.logistic_type
+,iphone 7,289,Villa Urquiza,Capital Federal,FALSE,drop_off
+,iphone 7,299.99,Floresta,Capital Federal,FALSE,cross_docking
+Desbloqueado,iphone 7,21899,capital federal,Capital Federal,TRUE,cross_docking
+,iphone 7,299.99,Palermo,Capital Federal,FALSE,cross_docking
+Liberado,iphone 7,23997,capital federal,Capital Federal,TRUE,cross_docking
+Liberado,iphone 7,24895,microcentro,Capital Federal,TRUE,drop_off
+,iphone 7,329,Caballito,Capital Federal,FALSE,drop_off
+,iphone 7,285,Puerto Madero,Capital Federal,FALSE,drop_off
+Desbloqueado,iphone 7,27490,microcentro,Capital Federal,TRUE,drop_off
+,iphone 7,419.99,Olivos,Vicente L—pez,TRUE,cross_docking
+Desbloqueado,iphone 7,27490,Capital Federal,Capital Federal,TRUE,drop_off
+,iphone 7,299.99,Floresta,Capital Federal,FALSE,cross_docking
+,iphone 7,385,Villa Crespo,Capital Federal,TRUE,cross_docking
+,iphone 7,379.99,Olivos,Vicente L—pez,TRUE,cross_docking
+,iphone 7,449.99,Palermo,Capital Federal,TRUE,cross_docking
+,iphone 7,119,Villa Urquiza,Capital Federal,FALSE,drop_off
+,iphone 7,250,Olivos,Vicente L—pez,FALSE,cross_docking
+,iphone 7,39.99,Ciudad Autonoma de Buenos Aires,Capital Federal,FALSE,drop_off
+,iphone 7,200,Mor—n,Mor—n,FALSE,cross_docking
+,iphone 7,389.9,Microcentro - Obelisco,Capital Federal,FALSE,cross_docking
+ 'price': 389.9,,,,,,
+Liberado,iphone 7,32499.99,Caballito,Capital Federal,TRUE,xd_drop_off
+,iphone 7,499.99,Olivos,Vicente L—pez,TRUE,cross_docking
+,iphone 7,499.99,Mor—n,Mor—n,TRUE,cross_docking
+Liberado,iphone 7,24309,Belgrano,Capital Federal,TRUE,drop_off
+,iphone 7,395,Puerto Madero,Capital Federal,TRUE,drop_off
+,iphone 7,380,Mor—n,Mor—n,TRUE,cross_docking
+,iphone 7,449.99,Palermo,Capital Federal,TRUE,cross_docking
+Liberado,iphone 7,19699,Puerto Madero,Capital Federal,TRUE,drop_off
+,iphone 7,406.99,Recoleta,Capital Federal,TRUE,cross_docking
+Desbloqueado,iphone 7,25499,capital federal,Capital Federal,TRUE,cross_docking
+,iphone 7,149.99,Palermo,Capital Federal,FALSE,cross_docking
+,iphone 7,444,San Isidro,San Isidro,FALSE,drop_off
+Liberado,iphone 7,27479,capital federal,Capital Federal,TRUE,cross_docking
+,iphone 7,279.9,Villa Crespo,Capital Federal,TRUE,cross_docking
+,iphone 7,349.99,Caballito,Capital Federal,FALSE,drop_off
+Desbloqueado,iphone 7,28999,capital federal,Capital Federal,TRUE,cross_docking
+,iphone 7,200,Olivos,Vicente L—pez,FALSE,cross_docking
+,iphone 7,99.99,Palermo,Capital Federal,FALSE,cross_docking
+,iphone 7,339.99,Buenos Aires,Capital Federal,FALSE,cross_docking
+,iphone 7,479.99,Olivos,Vicente L—pez,TRUE,cross_docking
+,,,,,,
+,iphone 7,499,San Justo,La Matanza,TRUE,cross_docking
+,iphone 7,219.99,Palermo,Capital Federal,FALSE,cross_docking
+,iphone 7,399.99,Palermo,Capital Federal,TRUE,cross_docking
+,iphone 7,499,C.A.B.A.,Capital Federal,FALSE,drop_off
+,iphone 7,179.99,Buenos Aires,Capital Federal,FALSE,cross_docking
+,iphone 7,459.99,Buenos Aires,Capital Federal,TRUE,cross_docking
+Desbloqueado,iphone 7,24890,Capital Federal,Capital Federal,TRUE,drop_off
+,iphone 7,299.99,Palermo,Capital Federal,FALSE,drop_off
+,iphone 7,299.99,Capital Federal,Capital Federal,FALSE,cross_docking
+,iphone 7,499.99,Buenos Aires,Capital Federal,TRUE,cross_docking
+,iphone 7,300,Mor—n,Mor—n,FALSE,cross_docking
+,iphone 7,285,Puerto Madero,Capital Federal,FALSE,drop_off
+Liberado,iphone 7,25349,Puerto Madero,Capital Federal,TRUE,drop_off
+,iphone 7,200,Olivos,Vicente L—pez,FALSE,cross_docking
+,iphone 7,400,Floresta,Capital Federal,FALSE,cross_docking
+,iphone 7,500,Olivos,Vicente L—pez,TRUE,cross_docking
+,iphone 7,99.99,Palermo,Capital Federal,FALSE,cross_docking
+,iphone 7,599.99,Villa Crespo,Capital Federal,FALSE,cross_docking
+,iphone 7,199.99,Palermo,Capital Federal,FALSE,cross_docking
+,iphone 7,489.9,Villa Crespo,Capital Federal,TRUE,cross_docking
+,iphone 7,399.99,Recoleta,Capital Federal,TRUE,cross_docking
+,iphone 7,399,Congreso,Capital Federal,FALSE,cross_docking
+,iphone 7,599,Caballito,Capital Federal,TRUE,drop_off
+Liberado,iphone 7,22195,microcentro,Capital Federal,TRUE,drop_off
+,iphone 7,129.99,Buenos Aires,Capital Federal,FALSE,cross_docking
+,iphone 7,380,Mor—n,Mor—n,TRUE,cross_docking
+Liberado,iphone 7,22195,microcentro,Capital Federal,TRUE,drop_off
+Desbloqueado,iphone 7,24999,capital federal,Capital Federal,TRUE,cross_docking
+,iphone 7,300,Microcentro,Capital Federal,FALSE,drop_off
+,iphone 7,499.99,Balvanera,Capital Federal,TRUE,cross_docking
+,iphone 7,39.99,Villa Crespo,Capital Federal,FALSE,cross_docking
+,iphone 7,299,Villa Crespo,Capital Federal,FALSE,cross_docking
+,iphone 7,1599.99,Palermo,Capital Federal,TRUE,cross_docking
+,iphone 7,229,Microcentro,Capital Federal,FALSE,drop_off
+,iphone 7,3999.99,Palermo,Capital Federal,TRUE,cross_docking
+,iphone 7,349.99,Buenos Aires,Capital Federal,FALSE,cross_docking
+,iphone 7,399.99,Buenos Aires,Capital Federal,TRUE,cross_docking
+,iphone 7,499.99,Mor—n,Mor—n,TRUE,cross_docking
+Liberado,iphone 7,24885,microcentro,Capital Federal,TRUE,drop_off
+,iphone 7,119.99,Buenos Aires,Capital Federal,FALSE,cross_docking
+,iphone 7,330,Olivos,Vicente L—pez,FALSE,cross_docking
+,iphone 7,399.99,Buenos Aires,Capital Federal,TRUE,cross_docking
+Liberado,iphone 7,18999,C—rdoba,C—rdoba,TRUE,drop_off
+,iphone 7,389.9,Microcentro - Obelisco,Capital Federal,FALSE,cross_docking
+,iphone 7,999,Villa Urquiza,Capital Federal,TRUE,drop_off
+,iphone 7,465.84,Recoleta,Capital Federal,TRUE,cross_docking
+,iphone 7,299.99,Belgrano,Capital Federal,FALSE,cross_docking
+,iphone 7,469,Villa Crespo,Capital Federal,TRUE,cross_docking
+Desbloqueado,iphone 7,28998,capital federal,Capital Federal,TRUE,cross_docking
+,iphone 7,206.04,Tigre,Tigre,FALSE,cross_docking
+,iphone 7,99.99,Microcentro,Capital Federal,FALSE,drop_off
+,iphone 7,199.99,Buenos Aires,Capital Federal,FALSE,cross_docking
+,iphone 7,129.99,Buenos Aires,Capital Federal,FALSE,cross_docking
+,iphone 7,849,Villa del Parque,Capital Federal,FALSE,drop_off
+Desbloqueado,iphone 7,24789,capital federal,Capital Federal,TRUE,cross_docking
+,iphone 7,5499,san nicolas,Capital Federal,FALSE,not_specified
+,iphone 7,249.99,Palermo,Capital Federal,FALSE,cross_docking
+,iphone 7,199.99,Palermo,Capital Federal,FALSE,cross_docking
+,iphone 7,99.99,Buenos Aires,Capital Federal,FALSE,cross_docking
+,iphone 7,379.99,Olivos,Vicente L—pez,TRUE,cross_docking
+,iphone 7,200,Mor—n,Mor—n,FALSE,cross_docking
+,iphone 7,99,Palermo,Capital Federal,FALSE,cross_docking
+,iphone 7,379.99,Recoleta,Capital Federal,TRUE,cross_docking
+,iphone 7,589,Belgrano,Capital Federal,FALSE,drop_off
+,iphone 7,329.9,Villa Crespo,Capital Federal,TRUE,cross_docking
+,iphone 7,299.99,Palermo,Capital Federal,FALSE,cross_docking
+,iphone 7,799,Palermo,Capital Federal,FALSE,drop_off
+,iphone 7,79.99,Palermo,Capital Federal,FALSE,cross_docking
+,iphone 7,375,Balvanera,Capital Federal,FALSE,cross_docking
+,iphone 7,299.99,Balvanera y Recoleta,Capital Federal,FALSE,cross_docking
+,iphone 7,399.99,Microcentro,Capital Federal,TRUE,drop_off
+,iphone 7,239.99,Palermo,Capital Federal,TRUE,cross_docking
+,iphone 7,579.99,Buenos Aires,Capital Federal,TRUE,cross_docking
+,iphone 7,395,Puerto Madero,Capital Federal,TRUE,drop_off
+,iphone 7,3499.99,Belgrano,Capital Federal,TRUE,drop_off
+Liberado,iphone 7,22999,Mar del Plata,Mar del Plata,TRUE,drop_off
+,iphone 7,1999.99,Palermo,Capital Federal,TRUE,cross_docking
+,iphone 7,199,Buenos Aires,Capital Federal,FALSE,cross_docking
+Liberado,iphone 7,28485,microcentro,Capital Federal,TRUE,drop_off
+,iphone 7,588.9,Chacarita,Capital Federal,FALSE,cross_docking
+,iphone 7,26489,Belgrano,Capital Federal,TRUE,drop_off
+,iphone 7,699,Palermo,Capital Federal,TRUE,cross_docking
+,iphone 7,300,Mor—n,Mor—n,FALSE,cross_docking
+,iphone 7,179.99,Buenos Aires,Capital Federal,FALSE,cross_docking
+,iphone 7,400,Floresta,Capital Federal,FALSE,cross_docking
+,iphone 7,,CONGRESO.TECHDIGITAL.COM.AR,Capital Federal,FALSE,not_specified
+,iphone 7,479.99,Buenos Aires,Capital Federal,TRUE,cross_docking
+,iphone 7,250,Microcentro,Capital Federal,FALSE,drop_off
+,iphone 7,299.99,Capital Federal,Capital Federal,FALSE,cross_docking
+,iphone 7,259.71,Congreso,Capital Federal,FALSE,drop_off
+,iphone 7,380,Mor—n,Mor—n,TRUE,cross_docking
+,iphone 7,1299,Villa Urquiza,Capital Federal,TRUE,drop_off
+,iphone 7,179.9,Palermo,Capital Federal,FALSE,drop_off
+,iphone 7,250,Belgrano,Capital Federal,FALSE,drop_off
+,iphone 7,999,Caballito,Capital Federal,TRUE,drop_off
+,iphone 7,199.99,CABA,Capital Federal,FALSE,cross_docking
+,iphone 7,120,Buenos Aires,Capital Federal,FALSE,cross_docking
+,iphone 7,499.99,Capital Federal,Capital Federal,FALSE,cross_docking
+,iphone 7,1400,Paternal,Capital Federal,TRUE,drop_off
+,iphone 7,489.99,San Cristobal,Capital Federal,TRUE,cross_docking
+Libre de fabrica,iphone 7,24369.99,Palermo,Capital Federal,TRUE,drop_off
+,iphone 7,99.9,Villa Crespo,Capital Federal,FALSE,cross_docking
+,iphone 7,169.99,Buenos Aires,Capital Federal,FALSE,cross_docking
+,iphone 7,299.99,Balvanera,Capital Federal,FALSE,cross_docking
+,iphone 7,568.99,Recoleta,Capital Federal,TRUE,cross_docking
+,iphone 7,400,Floresta,Capital Federal,FALSE,cross_docking
+Desbloqueado,iphone 7,20890,Belgrano,Capital Federal,FALSE,not_specified
+,iphone 7,350,Olivos,Vicente L—pez,FALSE,cross_docking
+,iphone 7,329.9,Villa Crespo,Capital Federal,TRUE,cross_docking
+,iphone 7,200,Mor—n,Mor—n,FALSE,cross_docking
+Liberado,samsung galaxy s7,13999,Mataderos,Capital Federal,TRUE,cross_docking
+Liberado,samsung galaxy s7,13889.99,Palermo,Capital Federal,TRUE,cross_docking
+Desbloqueado,samsung galaxy s7,13888.99,Palermo,Capital Federal,TRUE,cross_docking
+,samsung galaxy s7,110,Congreso,Capital Federal,FALSE,cross_docking
+Liberado,samsung galaxy s7,14000,Puerto Iguazœ,Iguazœ,TRUE,drop_off
+,samsung galaxy s7,169.97,Microcentro Obelisco,Capital Federal,FALSE,cross_docking
+LIBRE,samsung galaxy s7,14640,Quilmes,Quilmes,TRUE,drop_off
+Liberado,samsung galaxy s7,11949.99,San Isidro,San Isidro,TRUE,drop_off
+,samsung galaxy s7,1690,Microcentro,Capital Federal,TRUE,cross_docking
+,samsung galaxy s7,384,Olivos,Vicente L—pez,TRUE,cross_docking
+Liberado,samsung galaxy s7,14499,Quilmes,Quilmes,TRUE,drop_off
+,samsung galaxy s7,14199,C—rdoba,C—rdoba,TRUE,drop_off
+,samsung galaxy s7,145,TRIBUNALES / SAN NICOLAS,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,149.99,San Crist—bal,Capital Federal,FALSE,cross_docking
+Desbloqueado,samsung galaxy s7,16999,Lomas De Zamora,Lomas de Zamora,TRUE,drop_off
+,samsung galaxy s7,8500,Capital Federal,Capital Federal,TRUE,drop_off
+Desbloqueado,samsung galaxy s7,12799,C.A.B.A.,Capital Federal,TRUE,cross_docking
+,samsung galaxy s7,599.99,Capital Federal,Capital Federal,TRUE,cross_docking
+,samsung galaxy s7,599,Ciudad Aut—noma Buenos Aires,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,14999,Villa Crespo,Capital Federal,TRUE,cross_docking
+,samsung galaxy s7,240,Microcentro,Capital Federal,FALSE,drop_off
+,samsung galaxy s7,7200,Belgrano R,Capital Federal,TRUE,drop_off
+Liberado,samsung galaxy s7,11949.99,San Isidro,San Isidro,TRUE,drop_off
+,samsung galaxy s7,599.99,Buenos Aires,Capital Federal,TRUE,cross_docking
+,samsung galaxy s7,199.99,Microcentro,Capital Federal,FALSE,drop_off
+,samsung galaxy s7,1690,Microcentro,Capital Federal,TRUE,cross_docking
+Liberado,samsung galaxy s7,17200,Capital Federal,Capital Federal,TRUE,drop_off
+libre,samsung galaxy s7,18199,Parque Chacabuco,Capital Federal,FALSE,not_specified
+,samsung galaxy s7,199.99,Buenos Aires,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,149.99,San Cristobal,Capital Federal,FALSE,cross_docking
+Liberado,samsung galaxy s7,15000,Rosario,Rosario,TRUE,drop_off
+,samsung galaxy s7,999,Villa Urquiza,Capital Federal,TRUE,drop_off
+Liberado,samsung galaxy s7,12499,Belgrano,Capital Federal,TRUE,cross_docking
+libre,samsung galaxy s7,16798.95,Parque Chacabuco,Capital Federal,TRUE,drop_off
+,samsung galaxy s7,99.99,Buenos Aires,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,135,Microcentro - Obelisco,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,349.99,Buenos Aires,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,399,Congreso,Capital Federal,FALSE,cross_docking
+Desbloqueado,samsung galaxy s7,15000,Rosario,Rosario,TRUE,drop_off
+,samsung galaxy s7,449.99,Buenos Aires,Capital Federal,TRUE,cross_docking
+,samsung galaxy s7,2490,Microcentro,Capital Federal,TRUE,cross_docking
+Desbloqueado,samsung galaxy s7,10499,Belgrano,Capital Federal,TRUE,cross_docking
+,samsung galaxy s7,849.99,"ONCE, BALVANERA",Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,1499,Ciudad Aut—noma Buenos Aires,Capital Federal,TRUE,cross_docking
+,samsung galaxy s7,419.99,Caballito,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,399.99,Almagro,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,14890,Caballito,Lanœs,FALSE,not_specified
+,samsung galaxy s7,549.9,Microcentro - Obelisco,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,1284.99,San Isidro,San Isidro,FALSE,cross_docking
+,samsung galaxy s7,899.99,"ONCE, BALVANERA",Capital Federal,TRUE,cross_docking
+,samsung galaxy s7,1249,Munro,Vicente L—pez,TRUE,cross_docking
+,samsung galaxy s7,149.99,Buenos Aires,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,789.99,Palermo,Capital Federal,TRUE,cross_docking
+,samsung galaxy s7,360,Microcentro,Capital Federal,TRUE,drop_off
+,samsung galaxy s7,1499,Ciudad Aut—noma Buenos Aires,Capital Federal,TRUE,cross_docking
+,samsung galaxy s7,175,Villa Crespo,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,399,Congreso,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,100,SOLDATI,Capital Federal,FALSE,drop_off
+,samsung galaxy s7,289.97,Microcentro Obelisco,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,280.99,Congreso,Capital Federal,TRUE,cross_docking
+,samsung galaxy s7,399.99,Microcentro,Capital Federal,FALSE,drop_off
+libre,samsung galaxy s7,16599,Lanœs,Lanœs,TRUE,drop_off
+,samsung galaxy s7,270,Mor—n,Mor—n,TRUE,cross_docking
+,samsung galaxy s7,399.99,Microcentro,Capital Federal,FALSE,drop_off
+,samsung galaxy s7,499.99,Capital Federal,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,400,CARAPACHAY,Vicente L—pez,FALSE,drop_off
+,samsung galaxy s7,175,Quilmes,Quilmes,FALSE,drop_off
+,samsung galaxy s7,1099,Microcentro,Capital Federal,FALSE,drop_off
+,samsung galaxy s7,714.99,Recoleta,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,1699.99,Vicente L—pez,Vicente L—pez,TRUE,drop_off
+,samsung galaxy s7,224,Olivos,Vicente L—pez,FALSE,cross_docking
+,samsung galaxy s7,899,C.A.B.A.,Capital Federal,FALSE,drop_off
+,samsung galaxy s7,8099.99,Buenos Aires,Capital Federal,TRUE,cross_docking
+,samsung galaxy s7,399.29,Recoleta,Capital Federal,TRUE,cross_docking
+,samsung galaxy s7,644.97,Microcentro Obelisco,Capital Federal,TRUE,cross_docking
+,samsung galaxy s7,538.99,Recoleta,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,399,Ciudad Aut—noma Buenos Aires,Capital Federal,FALSE,cross_docking
+Liberado,samsung galaxy s7,14640,Quilmes,Quilmes,TRUE,drop_off
+,samsung galaxy s7,399.99,Capital Federal,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,280,Villa Ballester,General San Mart’n,TRUE,cross_docking
+,samsung galaxy s7,99.99,Buenos Aires,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,719.99,Recoleta,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,399.99,Microcentro,Capital Federal,FALSE,drop_off
+Libre de Fabrica,samsung galaxy s7,18969.99,Palermo,Capital Federal,TRUE,drop_off
+,samsung galaxy s7,2899,C.A.B.A,Capital Federal,TRUE,cross_docking
+,samsung galaxy s7,13300,Ober‡,Ober‡,TRUE,drop_off
+,samsung galaxy s7,349.9,Villa Crespo,Capital Federal,TRUE,cross_docking
+,samsung galaxy s7,399.99,Microcentro,Capital Federal,FALSE,drop_off
+,samsung galaxy s7,299.99,Microcentro,Capital Federal,TRUE,drop_off
+Desbloqueado,samsung galaxy s7,13975,Belgrano,Capital Federal,TRUE,drop_off
+,samsung galaxy s7,149.99,Buenos Aires,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,799.99,Buenos Aires,Capital Federal,TRUE,cross_docking
+,samsung galaxy s7,249.99,Villa Luzuriaga,La Matanza,FALSE,cross_docking
+,samsung galaxy s7,449.9,Microcentro - Obelisco,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,790,Caba,Capital Federal,FALSE,drop_off
+,samsung galaxy s7,249.99,Villa Pueyrred—n,Capital Federal,FALSE,drop_off
+Liberado,samsung galaxy s7,15999,Caballito,Capital Federal,TRUE,drop_off
+,samsung galaxy s7,299.99,Recoleta,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,999.99,"ONCE, BALVANERA",Capital Federal,TRUE,cross_docking
+,samsung galaxy s7,399.99,Microcentro,Capital Federal,FALSE,drop_off
+,samsung galaxy s7,499.99,Buenos Aires,Capital Federal,FALSE,cross_docking
+Liberado,samsung galaxy s7,11000,Villa Devoto,Capital Federal,FALSE,not_specified
+,samsung galaxy s7,369.99,Recoleta,Capital Federal,TRUE,cross_docking
+,samsung galaxy s7,580,Flores,Capital Federal,FALSE,drop_off
+,samsung galaxy s7,139.99,Recoleta,Capital Federal,FALSE,
+,samsung galaxy s7,411.39,Recoleta,Capital Federal,TRUE,cross_docking
+Liberado,samsung galaxy s7,15999,Capital Federal,Capital Federal,TRUE,cross_docking
+Liberado,samsung galaxy s7,16999,Lomas De Zamora,Lomas de Zamora,TRUE,drop_off
+,samsung galaxy s7,59.9,Villa Crespo,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,549.99,Buenos Aires,Capital Federal,TRUE,cross_docking
+,samsung galaxy s7,499.99,Recoleta,Capital Federal,TRUE,cross_docking
+Liberado,samsung galaxy s7,16799,Lomas De Zamora,Lomas de Zamora,TRUE,drop_off
+,samsung galaxy s7,99.99,Buenos Aires,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,399.99,Microcentro,Capital Federal,FALSE,drop_off
+,samsung galaxy s7,449,ABASTO,Capital Federal,FALSE,drop_off
+,samsung galaxy s7,4499.99,Palermo,Capital Federal,TRUE,cross_docking
+,samsung galaxy s7,299.99,Buenos Aires,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,699,Ciudad Aut—noma Buenos Aires,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,95,Palermo,Capital Federal,FALSE,drop_off
+,samsung galaxy s7,319.99,Recoleta,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,338.97,El Palomar,Mor—n,TRUE,drop_off
+,samsung galaxy s7,250,Almagro,Capital Federal,FALSE,drop_off
+,samsung galaxy s7,299.99,Belgrano,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,399.99,Buenos Aires,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,7899.99,Buenos Aires,Capital Federal,TRUE,cross_docking
+Liberado,samsung galaxy s7,16799,Lomas De Zamora,Lomas de Zamora,TRUE,drop_off
+,samsung galaxy s7,195,TRIBUNALES / SAN NICOLAS,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,249,Caballito,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,9999,i dont know,,FALSE,not_specified
+,samsung galaxy s7,280,Congreso,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,170.9,Villa Crespo,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,449.99,Buenos Aires,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,550,Palermo Hollywood,Capital Federal,FALSE,drop_off
+Liberado,samsung galaxy s7,15990,San Cristobal,Capital Federal,TRUE,drop_off
+,samsung galaxy s7,750,Palermo Hollywood,Capital Federal,FALSE,drop_off
+,samsung galaxy s7,999.99,"ONCE, BALVANERA",Capital Federal,TRUE,cross_docking
+,samsung galaxy s7,12000,San Crist—bal,Capital Federal,FALSE,not_specified
+,samsung galaxy s7,299.99,Buenos Aires,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,100,Microcentro - Obelisco,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,13200,capital federal,Capital Federal,FALSE,not_specified
+Liberado,samsung galaxy s7,7900,Buenos Aires,Capital Federal,FALSE,drop_off
+,samsung galaxy s7,1349,Munro,Vicente L—pez,TRUE,cross_docking
+,samsung galaxy s7,990,Caba,Capital Federal,TRUE,drop_off
+,samsung galaxy s7,1099.99,Ramos Mejia,La Matanza,FALSE,drop_off
+Libre de Fabrica,samsung galaxy s7,18969.99,Palermo,Capital Federal,TRUE,drop_off
+,samsung galaxy s7,499.99,Palermo,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,80,Villa Crespo,Capital Federal,FALSE,cross_docking
+,samsung galaxy s7,120,Palermo,Capital Federal,FALSE,xd_drop_off
+,samsung galaxy s7,399.99,Microcentro,Capital Federal,FALSE,drop_off
+,samsung galaxy s7,34.99,congreso,Capital Federal,FALSE,cross_docking
+,huawei P9,100,Caballito,Capital Federal,FALSE,cross_docking
+,huawei P9,350,Palermo Hollywood,Capital Federal,FALSE,drop_off
+,huawei P9,199.99,Belgrano,Capital Federal,FALSE,cross_docking
+,huawei P9,75,Villa Crespo,Capital Federal,FALSE,cross_docking
+,huawei P9,300,Belgrano,Capital Federal,FALSE,drop_off
+,huawei P9,409.9,Villa Crespo,Capital Federal,TRUE,cross_docking
+,huawei P9,75,Villa Crespo,Capital Federal,FALSE,cross_docking
+,huawei P9,425,Villa Crespo,Capital Federal,TRUE,cross_docking
+,huawei P9,99,CABA,Capital Federal,FALSE,drop_off
+,huawei P9,299.99,Belgrano,Capital Federal,FALSE,cross_docking
+,huawei P9,299.98,Microcentro - Obelisco,Capital Federal,FALSE,cross_docking
+,huawei P9,279.9,Villa Crespo,Capital Federal,TRUE,cross_docking
+,huawei P9,279.9,Villa Crespo,Capital Federal,TRUE,cross_docking
+,huawei P9,160,Microcentro - Obelisco,Capital Federal,FALSE,cross_docking
+,huawei P9,240,reconquista,General Obligado,FALSE,drop_off
+,huawei P9,99.99,Palermo,Capital Federal,FALSE,cross_docking
+,huawei P9,100,Microcentro - Obelisco,Capital Federal,FALSE,cross_docking
+,huawei P9,199.9,Villa Crespo,Capital Federal,FALSE,cross_docking
+,huawei P9,90,Villa Crespo,Capital Federal,FALSE,cross_docking
+,huawei P9,459.9,Tribunales,Capital Federal,TRUE,drop_off
+,huawei P9,89.9,Microcentro - Obelisco,Capital Federal,FALSE,cross_docking
+,huawei P9,199.9,Villa Crespo,Capital Federal,FALSE,cross_docking
+,huawei P9,245,CABA,Capital Federal,FALSE,drop_off
+,huawei P9,200,Belgrano,Capital Federal,FALSE,drop_off
+,huawei P9,449.99,Caseros,Caseros,FALSE,drop_off
+,huawei P9,299.9,Villa Crespo,Capital Federal,TRUE,cross_docking
+,huawei P9,99.9,Villa Crespo,Capital Federal,FALSE,cross_docking
+,huawei P9,249.9,Villa Crespo,Capital Federal,FALSE,cross_docking
+,huawei P9,119,Villa Crespo,Capital Federal,FALSE,cross_docking
+,huawei P9,225,Villa Crespo,Capital Federal,FALSE,cross_docking
+,huawei P9,,,,,
+,,,,,,
+,huawei P9,219.9,Villa Crespo,Capital Federal,FALSE,cross_docking
+,huawei P9,279.9,Villa Crespo,Capital Federal,TRUE,cross_docking
+,huawei P9,224.9,Microcentro - Obelisco,Capital Federal,FALSE,cross_docking
+,huawei P9,110,Villa Crespo,Capital Federal,FALSE,cross_docking
+,huawei P9,199.9,Villa Crespo,Capital Federal,FALSE,cross_docking
+,huawei P9,249.9,Villa Crespo,Capital Federal,FALSE,cross_docking
+,huawei P9,508,Monserrat,Capital Federal,FALSE,drop_off
+,huawei P9,159,Belgrano,Capital Federal,FALSE,drop_off
+,huawei P9,299.9,Villa Crespo,Capital Federal,TRUE,cross_docking
+,huawei P9,185,Villa Crespo,Capital Federal,FALSE,cross_docking
+,huawei P9,75,Villa Crespo,Capital Federal,FALSE,cross_docking
+,huawei P9,180,Flores,Capital Federal,FALSE,drop_off
+,huawei P9,459.9,capital federal,Capital Federal,TRUE,drop_off
+,huawei P9,79,San Miguel,San Miguel,FALSE,drop_off
+,huawei P9,399.99,Palermo,Capital Federal,FALSE,cross_docking
+,huawei P9,179,Recoleta,Capital Federal,FALSE,drop_off
+,huawei P9,459.9,Monserrat,Capital Federal,TRUE,drop_off
+,huawei P9,319.9,Villa Crespo,Capital Federal,TRUE,cross_docking
+,huawei P9,90,Villa Crespo,Capital Federal,FALSE,cross_docking
+,huawei P9,459.9,tribunales,Capital Federal,TRUE,cross_docking
+,huawei P9,379.9,Villa Crespo,Capital Federal,TRUE,cross_docking
+,huawei P9,459.9,tribunales,Capital Federal,TRUE,cross_docking
+,huawei P9,329,Villa Crespo,Capital Federal,TRUE,cross_docking
+,huawei P9,299,San Miguel,San Miguel,TRUE,drop_off
+,huawei P9,549,san nicolas,Capital Federal,FALSE,cross_docking
+Liberado,huawei P9,4500,Saavedra,Capital Federal,FALSE,not_specified
+,huawei P9,199.79,Congreso Belgrano,Capital Federal,FALSE,drop_off
+,huawei P9,150,Belen de Escobar,Escobar,FALSE,drop_off
+,huawei P9,459.9,Monserrat,Capital Federal,TRUE,drop_off
+,huawei P9,459.9,Monserrat,Capital Federal,TRUE,drop_off
+,huawei P9,509.9,Monserrat,Capital Federal,TRUE,drop_off
+,huawei P9,264.97,Obelisco Tribunales,Capital Federal,FALSE,drop_off
+,huawei P9,179.97,Obelisco Tribunales,Capital Federal,FALSE,drop_off
+,huawei P9,110,Vicente L—pez,Vicente L—pez,FALSE,drop_off
+,huawei P9,99.99,Villa Luzuriaga,La Matanza,FALSE,cross_docking
+,huawei P9,255.84,Congreso,Capital Federal,FALSE,drop_off
+,huawei P9,60,Nœ–ez,Capital Federal,FALSE,drop_off
+,huawei P9,89,Congreso,Capital Federal,FALSE,drop_off
+,huawei P9,324.99,Congreso,Capital Federal,FALSE,drop_off
+,huawei P9,449.99,Caseros,Caseros,FALSE,drop_off
+,huawei P9,449.99,Caseros,Caseros,FALSE,drop_off
+,huawei P9,449.99,Caseros,Caseros,FALSE,drop_off
+,huawei P9,449.99,Caseros,Caseros,FALSE,drop_off
+,huawei P9,190,Belgrano,Capital Federal,FALSE,drop_off
+,huawei P9,70,Belgrano,Capital Federal,FALSE,drop_off
+,huawei P9,99,Liniers,Capital Federal,FALSE,drop_off
+,huawei P9,449.99,Caseros,Caseros,FALSE,drop_off
+,huawei P9,449.99,Caseros,Caseros,FALSE,drop_off
+Liberado,huawei P9,8900,gral san martin,,TRUE,drop_off
+,huawei P9,120,Parque Patricios,Capital Federal,FALSE,drop_off
+,huawei P9,11000,san martin,,FALSE,drop_off
+,huawei P9,9500,san martin,,FALSE,drop_off

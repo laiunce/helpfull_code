@@ -1,0 +1,8 @@
+-log "//srappw001v011/Disco D/COBRANZAS/prueba_claiun/cheques_scraping/Track manual/log_inserta_registros.txt"
+-server
+-hostname srappw001v011.terceros.banco.com.ar
+-domain NTDOM
+-username LAC40641
+-epassword "3F=ACC3BIAC6:0M4:3=FF7=HMF@AM@KG81<I"
+-stream "//srappw001v011/Disco D/COBRANZAS/prueba_claiun/cheques_scraping/Track manual/2- subida/2-inserta_registros.str"
+-execute

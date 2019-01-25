@@ -1,0 +1,5 @@
+
+agrupacion de palabras similares
+la palabra en la pagina el porcentaje de veces que aparece y hacer la media como metrica global, luego la palabra en cuantas paginas diferentes aparece y hacer metrica de share, luego comprar esas dos y poner cotas o hacer una regresion que ajuste a palabras raras o unicas
+crear grafo con subgrafos que representen el texto 
+con metricas encontrar intersecciones

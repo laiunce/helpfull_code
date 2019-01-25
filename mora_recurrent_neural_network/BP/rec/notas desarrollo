@@ -1,0 +1,13 @@
+el disco D esta totalmente lleno
+
+se estuvo trabajando para incorpoar variables en la prediccion de mora, o sea que no sea solo un arima el cual calucla promedios pasados sino incorporarle mas informacion de distintas agregaciones en el mes para que el modelo pueda discriminar mejor ( por ejemplo monto de deuda entre 30 y 90 dias de atraso en un mes en particular para ver como afecta a la mora del mes siguiente)
+
+Para lograr esto hay que correr varios meses para tener historia y que el algoritmo pueda identifiar los patrones.
+
+El servdior de spss se colgo, se bloqueo mi usuario no me deja entrar ni a los server ni a internet. Deje corriendo corriendo con la compu de georgy, euge y boris pudimos obtener 2012, 2013, 2014, 2015, 2016 y 2017. pero se colgo todo al no haber espacio tuvimos que trasladar toda la info a la compu local (la idea es unir todos esos meses y alimentar al modelo)
+
+los modelos pude sacarlos con informacion de 2016-2017 y en los de mejor performance me da que la mora va a estar por 2.6 pero tener en cuenta que no tiene tanta historia como para identificar patrones fuertes.
+
+USANDO DE 2018 A DELANTE TENEMOS LIO POR AÑOS 2013-2014 asi que sacamos esos años y volvemos a entrenar el modelo
+
+los mejores modelos que ajustan tiran un promedio de 2.35

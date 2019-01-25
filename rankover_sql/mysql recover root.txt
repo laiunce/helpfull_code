@@ -1,0 +1,16 @@
+#tutoral http://mariuspukas.com/mysql-on-mac-el-capitan-os-sierra-os-how-to-set-reset-new-root-password/
+
+tener en cuenta si no anda el comando setear variable PATH como se especifica a continuacion
+
+sudo /usr/local/mysql/support-files/mysql.server stop
+sudo mysqld_safe --skip-grant-tables
+>>>> en otra ventana
+export PATH=$PATH:/usr/local/mysql/bin
+mysql -u root
+
+4. For MySQL older than MySQL 5.7 use:
+UPDATE mysql.user SET Password=PASSWORD('new-password') WHERE User='root';
+For MySQL 5.7+ use:
+UPDATE mysql.user SET authentication_string=PASSWORD("root") WHERE User='root';
+
+FLUSH PRIVILEGES;

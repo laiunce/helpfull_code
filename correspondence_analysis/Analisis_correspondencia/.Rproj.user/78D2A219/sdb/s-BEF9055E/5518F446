@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(FactoMineR)\nlibrary(ca)\nlibrary(ggplot2)\n\ndata1 <- read.csv(\"data.csv\")\nprint()\n\nac_data <-data.frame(as.factor(data1$ï..bad), data1$Sexo,data1$Zona_Oficial)\ncolnames(ac_data)<-c('bad','Sexo','Zona_Oficial')\n\n\nmca1_cat = MCA(ac_data, graph = FALSE)\nplot(mca1_cat)\n",
+    "created" : 1499183676550.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1722676013",
+    "id" : "5518F446",
+    "lastKnownWriteTime" : 1499199031,
+    "last_content_update" : 1499199031335,
+    "path" : "C:/Users/LAC40641/Desktop/Analisis_correspondencia/AC simple.R",
+    "project_path" : "AC simple.R",
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

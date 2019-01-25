@@ -1,0 +1,22 @@
+en esta carpeta estan los archivos de la subida normal a la tabla
+
+claiun_bcra_cheques_bajada
+
+En la carpeta
+3-subida por partes
+
+estan los archivos de subida por partes de 201601 a 201708
+
+para la tabla claiun_bcra_cheques_bajada_201601_2017
+
+en 
+
+cheques rechazados
+
+estan todos os cheques rechazados desde 2012
+
+en por año esta al subida de 2012 solamente para prueba
+
+en por partes esta lasubida posta desde 201601 a 201708
+
+

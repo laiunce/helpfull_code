@@ -1,0 +1,5 @@
+primer columna es al fecha mes o dia lo que fuese el incremental.
+esta ordenado de menor a mayor
+la segunda columna contiene el target
+
+la ultima fila que seria la a predecir, contiene como target el mismo valor que el anterior inmediato para que no destruya la estandariazcion

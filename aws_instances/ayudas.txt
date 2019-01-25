@@ -1,0 +1,20 @@
+#apis
+http://52.14.67.113:5000/api/v1/resources/return_pepe?valor=peli%20cara%20de%20sapo
+http://0.0.0.0:5000/api/v1/resources/return_pepe?valor=peli%20cara%20de%20sapo
+
+#correr en nohup con log
+nohup python3 api_url_texto.py &> nohup_log_api.out&
+nohup python3 bajada.py &> nohup_bajada.out&
+
+#matar proceso
+ps aux |grep python
+kill -9 27139
+
+
+
+
+sudo nohup python3 bajada_geopoint.py &> nohup_bajada_geopoint.out&
+
+13:29:16	select  count(*) from base_g bg inner join base_vz ba on bg.dni_tc = ba.DOC	Error Code: 2013. Lost connection to MySQL server during query	30.004 sec
+
+

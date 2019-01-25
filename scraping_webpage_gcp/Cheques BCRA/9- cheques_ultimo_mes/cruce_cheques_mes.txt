@@ -1,0 +1,8 @@
+-log "//srappw001v011/Disco D/COBRANZAS/prueba_claiun/cheques_scraping/Track manual/log_cruce_cheques_mes.txt"
+-server
+-hostname srappw001v011.terceros.banco.com.ar
+-domain NTDOM
+-username LAC40641
+-epassword "MG<AKC3G4EB765I5>7;B3:5H>KHF=IAF21>1"
+-stream "//srappw001v011/Disco D/COBRANZAS/prueba_claiun/cheques_scraping/Track manual/9- cheques_ultimo_mes/1- cruce.str"
+-execute
