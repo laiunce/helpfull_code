@@ -1,3 +1,72 @@
+
+Conversación abierta. 6 mensajes. Todos los mensajes leídos.
+
+Ir al contenido
+Uso de Gmail con lectores de pantalla
+in:sent rios 
+
+2 de unas 57
+scraping deptos
+Recibidos
+x
+
+Laiun Cristian Ezequiel <laiun.ce@gmail.com>
+Archivos adjuntos
+sáb., 9 jun. 2018 18:36
+para Leandro
+
+Peli te adjunto el excel resultado, todos los barrios te deje el link a la publicacion. Donde no hay datos es porque el usuario no puso nada.
+
+abrazoo
+Zona de los archivos adjuntos
+
+Laiun Cristian Ezequiel <laiun.ce@gmail.com>
+Archivos adjuntos
+sáb., 9 jun. 2018 18:44
+para Leandro
+
+codigo
+
+Zona de los archivos adjuntos
+
+Leandro Martín Ríos
+lun., 11 jun. 2018 23:38
+Geniooo graciasMe pasas la nueva búsqueda please HugLea
+
+Laiun Cristian Ezequiel <laiun.ce@gmail.com>
+Archivos adjuntos
+mar., 12 jun. 2018 0:23
+para Leandro
+
+1, 2 y 3 ambientes peli
+
+abrazo! avisame cualquier cosa.
+
+Zona de los archivos adjuntos
+
+Laiun Cristian Ezequiel <laiun.ce@gmail.com>
+mar., 12 jun. 2018 0:37
+para Leandro
+
+vos haceme acordar por las dudas, pero este script lo vamos a correr todos los dias para detectar gente que le esta bajando el precio a los deptos cosa de saber que se le puede pedir menos.
+
+
+Leandro Martín Ríos <rios.leandromartin@gmail.com>
+dom., 3 feb. 11:49
+para mí
+
+Cabezón, podremos volver a correr el script de solodueños para buscar dptos 1 2 y 3 ambientes?
+Estamos con la compra del dpto de flor
+
+Hoy voy a estudiar y acomodar mi dataset de imágenes Para la tesis 
+
+Chiflame si querés 
+
+Abrazo grande 
+Pelli 
+
+¡OK!Sí, dale.No creo.
+
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
@@ -260,3 +329,5 @@ datf.to_csv('deptos.csv', sep='\t')
 
 
 
+bajada3.py
+Mostrando bajada3.py.
